@@ -1,0 +1,30 @@
+{
+  "name": "fill-drop-down-by-column",
+  "version": "1.0.0",
+  "description": "you can fill the dropdown value by just assigning its column and its list",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliHashmi1993/fill-drop-down-by-column.git"
+  },
+  "keywords": [
+    "fill",
+    "drop",
+    "down",
+    "by",
+    "column",
+    "name",
+    "dynamic dropdown",
+    "dynamic column"
+  ],
+  "author": "ALI ARIF HASHMI",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "files": ["lib/**/*"]
+}
